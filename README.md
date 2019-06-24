@@ -10,11 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * **Web Browser (Chrome, Firefox, Safari etc)**
-* **Text Editor (Atom, Sublime Text, Visual Studio Code etx.)
-* **Node.js
-* **BrowserSync
-* **Git
-* **Github
+* **Text Editor (Atom, Sublime Text, Visual Studio Code etx.) **
+* **Node.js**
+* **BrowserSync**
+* **Git**
+* **Github**
 
 ### Installing
 
