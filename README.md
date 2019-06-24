@@ -5,7 +5,7 @@ The project is an interactive website for a restaurant with features like live m
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. **The final site is in the Module-4-solution folder and can be opened at index.html**
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. **The final website is located in the Module-4-solution folder at index.html**
 
 ### Prerequisites
 
@@ -18,8 +18,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 ```
-1) Install your prefered web browser (Chrome, Firefox, Safari)
-2) Install any text editor
+1) Install your prefered web browser (Chrome recommended)
+2) Install any text editor (Sublime Text recommended)
 3) Install node.js 
 4) Install BrowserSync
 5) Install Git and Github Desktop
@@ -29,11 +29,18 @@ npm install -g browser-sync
 ```
 ### Testing
 ```
-Open the project folder and modules as needed. Run index.html and view it on Chrome. For editing CSS open style.css and for JavaScript open script.js. Using Chrome developers tools for debugging and instant checking is highly recommended which can be achieved by pressing CRTL+Shift+I 
+Open the project folder and modules as needed. Run index.html and view it on Chrome. For editing CSS and Javascript open style.css & script.js respectively in the text editor. Use of Chrome developers tools for debugging and instant checking is highly recommended which can be achieved by pressing CRTL+Shift+I in the Chrome browser window.
 ```
 ## Screenshots of the site
 
+** Home Page **
+![] (Home_page.png)
 
+** Menu **
+![] (Menu.png)
+
+** Sub-Menu **
+![] (Sub_menu.png)
 
 
 ## Authors
