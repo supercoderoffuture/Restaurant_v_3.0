@@ -1,7 +1,7 @@
 # Restaurant_v_3.0
 
 This website has been created as a final submission project for the course ' HTML, CSS and JavaScript for Web Developers ' provided via the Coursera Platform.
-The project is an interactive website for a restaurant with features like live map, direct-contact and feedback form.
+The project is an interactive website for a restaurant with features like live map, direct-call for order and feedback form.
 
 ## Getting Started
 
@@ -16,25 +16,19 @@ These instructions will get you a copy of the project up and running on your loc
 * **Git**
 * **Github**
 
-### Installing
-
-1) Install your prefered web browser.
-2) Install any text editor.
+### Installation
+```
+1) Install your prefered web browser (Chrome, Firefox, Safari)
+2) Install any text editor
 3) Install node.js 
-4) Install BrowserSync.
+4) Install BrowserSync
+```
+```
+npm install -g browser-sync
+```
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Authors
 
@@ -43,7 +37,7 @@ Give an example
 See also the list of [contributors](https://github.com/supercoderoffuture/Restaurant_v_3.0/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
-
-* 
+ 
+* https://github.com/ychaikin (Yakoov Chaikin)
 
 
