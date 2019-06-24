@@ -33,6 +33,10 @@ Open the project folder and modules as needed. Run index.html and view it on Chr
 ```
 ## Screenshots of the site
 
+![Home](image/Home_Page.png)
+![Menu](image/Menu.png)
+![Sub Menu](image/Sub_menu.png)
+
 **Home Page**
 ![] (/Home_page.png)
 
