@@ -22,12 +22,18 @@ These instructions will get you a copy of the project up and running on your loc
 2) Install any text editor
 3) Install node.js 
 4) Install BrowserSync
+5) Install Git and Github Desktop
 ```
 ```
 npm install -g browser-sync
 ```
+### Testing
+```
+Open the project folder and modules as needed. Run index.html and view it on Chrome. For editing CSS open f
+```
+## Screenshots of the site
 
-## Running the tests
+
 
 
 ## Authors
@@ -37,7 +43,7 @@ npm install -g browser-sync
 See also the list of [contributors](https://github.com/supercoderoffuture/Restaurant_v_3.0/graphs/contributors) who participated in this project.
 
 ## Acknowledgments
- 
+``` 
 * https://github.com/ychaikin (Yakoov Chaikin)
-
+```
 
