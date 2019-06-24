@@ -37,15 +37,6 @@ Open the project folder and modules as needed. Run index.html and view it on Chr
 ![Menu](image/Menu.png)
 ![Sub Menu](image/Sub_menu.png)
 
-**Home Page**
-![] (/Home_page.png)
-
-**Menu**
-![] (/Menu.png)
-
-**Sub-Menu**
-![] (/Sub_menu.png)
-
 
 ## Authors
 
