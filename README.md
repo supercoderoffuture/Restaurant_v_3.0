@@ -40,7 +40,7 @@ Open the project folder and modules as needed. Run index.html and view it on Chr
 
 ## Authors
 
-* **Sagar Uprety** - *Initial work* - [supercoderoffuture](https://github.com/supercoderoffuture)
+* **Sagar Uprety** - *Initial work* - [sagar-uprety](https://github.com/sagar-uprety)
 
 See also the list of [contributors](https://github.com/supercoderoffuture/Restaurant_v_3.0/graphs/contributors) who participated in this project.
 
