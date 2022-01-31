@@ -9,27 +9,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* **Web Browser (Chrome, Firefox, Safari etc)**
-* **Text Editor (Atom, Sublime Text, Visual Studio Code etc)**
 * **Node.js**
-* **BrowserSync**
-* **Git**
-* **Github**
 
 ### Installation
 ```
-1) Install your prefered web browser (Chrome recommended)
-2) Install any text editor (Sublime Text recommended)
-3) Install node.js 
-4) Install BrowserSync
-5) Install Git and Github Desktop
+npm i
 ```
 ```
-npm install -g browser-sync
-```
-### Testing
-```
-Open the project folder and modules as needed. Run index.html and view it on Chrome. For editing CSS and Javascript open style.css & script.js respectively in the text editor. Use of Chrome developers tools for debugging and instant checking is highly recommended which can be achieved by pressing CRTL+Shift+I in the Chrome browser window.
+Open the project folder and modules as needed. Run index.html on your preferred browser. For editing CSS and Javascript open style.css & script.js respectively in the text editor. 
 ```
 ## Screenshots of the site
 
